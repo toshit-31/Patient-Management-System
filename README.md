@@ -17,3 +17,13 @@ ____
 1) Run `gridsome develop --port=<PORT>` in the frontend root folder. Use any port number except for (8000 - for backend, 8080 - for database)
 2) Run `node index` in the backend root folder.
 3) Start the dgraph database server by running `dgraph zero` and `dgraph alpha` in different terminals with current working directory as the empty folder (`data`) that was created in step (4) of previous section.
+
+![](https://github.com/toshit-31/Patient-Management-System/blob/main/screenshot%20(1).jpeg)
+![](https://github.com/toshit-31/Patient-Management-System/blob/main/screenshot%20(2).jpeg)
+![](https://github.com/toshit-31/Patient-Management-System/blob/main/screenshot%20(3).jpeg)
+![](https://github.com/toshit-31/Patient-Management-System/blob/main/screenshot%20(4).jpeg)
+![](https://github.com/toshit-31/Patient-Management-System/blob/main/screenshot%20(5).jpeg)
+![](https://github.com/toshit-31/Patient-Management-System/blob/main/screenshot%20(6).jpeg)
+![](https://github.com/toshit-31/Patient-Management-System/blob/main/screenshot%20(7).jpeg)
+![](https://github.com/toshit-31/Patient-Management-System/blob/main/screenshot%20(8).jpeg)
+![](https://github.com/toshit-31/Patient-Management-System/blob/main/screenshot%20(9).jpeg)
